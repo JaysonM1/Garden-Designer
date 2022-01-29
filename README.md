@@ -1,4 +1,3 @@
 # Garden-Designer
-Project from Introduction to software engineering 
-Created a garden designer in java for a client
-This was a group project with 5 other people
+click team-10-0-master to open and read more
+about the project
